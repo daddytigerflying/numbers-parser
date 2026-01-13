@@ -53,4 +53,4 @@ A: The documentation focuses on GitHub Copilot, but the concepts apply to other 
 
 ## Need Help?
 
-Open an issue on the [repository](https://github.com/daddytigerflying/numbers-parser) if you have questions.
+Open an issue on the [repository](https://github.com/masaccio/numbers-parser) if you have questions.

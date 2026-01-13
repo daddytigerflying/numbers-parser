@@ -52,4 +52,4 @@ Can you add more practical examples showing common use cases?
 
 ## Need Help?
 
-Open an issue on the [repository](https://github.com/daddytigerflying/numbers-parser) if you have questions about using Copilot Skills with this project.
+Open an issue on the [repository](https://github.com/masaccio/numbers-parser) if you have questions about using Copilot Skills with this project.

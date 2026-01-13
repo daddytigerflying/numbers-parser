@@ -159,4 +159,4 @@ To get better results from the skill:
 
 ## Contributing
 
-If you find issues with this documentation or have suggestions for improvement, please open an issue or submit a pull request on the [numbers-parser repository](https://github.com/daddytigerflying/numbers-parser).
+If you find issues with this documentation or have suggestions for improvement, please open an issue or submit a pull request on the [numbers-parser repository](https://github.com/masaccio/numbers-parser).

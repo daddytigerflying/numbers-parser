@@ -246,7 +246,7 @@ If you have questions about using Copilot Skills with this project:
 
 1. Check the [main skills documentation](../COPILOT_SKILLS.md)
 2. Read the [README](../README.md) for project-specific information
-3. Open an issue on the [repository](https://github.com/daddytigerflying/numbers-parser)
+3. Open an issue on the [repository](https://github.com/masaccio/numbers-parser)
 
 ---
 
